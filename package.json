@@ -1,0 +1,10 @@
+{
+    "urls": [
+        [
+            "tmp100.py",
+            "github:HowManyOliversAreThere/micropython-tmp100/tmp100.py"
+        ]
+    ],
+    "deps": [],
+    "version": "1.0"
+}
